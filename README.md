@@ -1,8 +1,8 @@
 ## SQL_SOLUTIONS
 This repository consists of solutions of sql questions from sqlzoo.net.This is the solo project of database course.
 
-##LANGUAGE USED
-### sql
+## LANGUAGE USED
+### SQL
 ### MySQL(DBMS)
 
 ## GETTING STARTED
